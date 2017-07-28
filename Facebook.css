@@ -1,0 +1,55 @@
+body {
+	background-color: linear-gradient(#FFFFFF, #E9EBEE);
+}
+
+a{
+	text-decoration: none;
+	color: white;
+}
+
+.header {
+	
+	margin: -10px -8px 0px -10px;
+	background-image: url("https://lh3.googleusercontent.com/-ywK2s78-Cqw/WXWApy_VY1I/AAAAAAAAAJ4/AWbQ2R_1OO4FhOclFkUHBSjqqACCqdSbACL0BGAs/w530-h43-p-rw/Untitled.png");
+	background-size: 1024px 79px;
+	background-repeat: no-repeat;
+	background-position: left;
+	text-align: left;
+	
+}
+
+.main, td {
+	margin: 0px -8px 0px -8px;
+	text-align: left;
+	
+}
+.fb {
+	color: rgb(61, 88, 151);
+	font-size: 20px;
+	font-family: Arial sans-serif;
+}
+.footer {
+	text-align: right;
+	
+	margin: 0px -8px 0px -8px;
+}
+input[type=submit] {
+	background-color: rgb(61, 88, 155);
+	color: #FFF;
+	
+}
+
+a.forget {
+	color: #e6f2ff;
+}
+.free {
+	font-size: 20px;
+}
+.agree {
+	color: rgb(61, 88, 155);
+}
+button {
+	background: linear-gradient(#67ae55, #578843);
+	color: #FFF;
+	font-size: 30px;
+}
